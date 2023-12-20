@@ -1,0 +1,3 @@
+Hi,
+This project is like menu and you can add and remove food.
+I hope it is useful for you...
